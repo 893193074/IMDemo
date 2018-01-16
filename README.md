@@ -32,7 +32,7 @@ Application Screenshot
 |:-----------------------------:|:--------------------------------:|:-------------------------------:|:-----------------------------:|
 |![](app-image/im1.png)         | ![](app-image/im2.png)           | ![](app-image/im3.png)          |![](app-image/im4.png)         |
 
-| Settings  Page                | Add Friends Page                 | Sharing Location Page           | Chat Page                     |
+|  Settings  Page               | Add Friends Page                 | Sharing Location Page           | Chat Page                     |
 |:-----------------------------:|:--------------------------------:|:-------------------------------:|:-----------------------------:|
 |![](app-image/im5.png)         | ![](app-image/im6.png)           | ![](app-image/im7.png)          |![](app-image/im8.png)         |
 
