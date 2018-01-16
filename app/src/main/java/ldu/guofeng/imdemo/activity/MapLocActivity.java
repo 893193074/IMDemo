@@ -21,17 +21,17 @@ import ldu.guofeng.imdemo.view.CustomReturnToolbar;
  * 位置详情页
  */
 public class MapLocActivity extends CustomReturnToolbar {
-    private MapView mMapView = null;//地图
-    private BaiduMap mBaiduMap = null;
-    private TextView tv_address;
+        private MapView mMapView = null;//地图
+        private BaiduMap mBaiduMap = null;
+        private TextView tv_address;
 
-    @Override
-    protected int provideContentViewId() {
-        return R.layout.activity_map_loc;
-    }
+        @Override
+        protected int provideContentViewId() {
+            return R.layout.activity_map_loc;
+        }
 
-    @Override
-    protected void onCreate(Bundle savedInstanceState) {
+        @Override
+        protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
 
         Intent intent = getIntent();
